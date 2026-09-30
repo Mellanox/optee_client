@@ -21,7 +21,7 @@
 %define libname3 libseteec0
 %define libname4 libteeacl0
 Name:           optee-client
-Version:        4.2.4
+Version:        4.2.5
 Release:        0
 Summary:        A Trusted Execution Environment client
 License:        BSD-2-Clause
