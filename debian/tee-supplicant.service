@@ -1,5 +1,6 @@
 [Unit]
 Description=TEE Supplicant
+ConditionPathExistsGlob=/dev/teepriv*
 
 [Service]
 Type=simple
